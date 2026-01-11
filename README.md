@@ -1,6 +1,9 @@
 # Gamebooy-Multi-sensor-Cartdrige
 A gameboy cartridge that can be used as a home multi-sensor or taken with you on adventures
 
+# Links to Digikey/Mouser Cart Orders
+XXXX
+
 # Sensors
 The board utilizes two sensors (BME680 & HMC5883L) that can monitor altitude, barometric pressure, humidity, temperature, and a compass. It also comes with a real-time clock (BQ32000DR). 
 
