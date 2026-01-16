@@ -4,13 +4,14 @@ A gameboy cartridge that can be used as a home multi-sensor or taken with you on
 # Parts Needed & Construction
 
 
+
+
 # Auduino Flashing
 
 The heart of this flash cart is an Atmega32U-MU microcontroller. The board has been designed with a USB-C port to make flashing the microcontroller easy. First, you will need to download and install the [Arduino IDE](https://docs.arduino.cc/software/ide/).
 
 # Links to Digikey/Mouser Cart Orders
-XXXX
-
+[Digikey order](https://www.digikey.com/short/mhdbv30d)
 # Sensors
 The board utilizes two sensors (BME680 & HMC5883L) that can monitor altitude, barometric pressure, humidity, temperature, and a compass. It also comes with a real-time clock (BQ32000DR). 
 
