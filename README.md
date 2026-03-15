@@ -19,7 +19,7 @@ R12 is the resistor that will supply the diagnostic green LED. If you wish to ch
 The heart of this flash cart is an Atmega32U-MU microcontroller. The board has been designed with a USB-C port & 2mm pin socket headers to make flashing the microcontroller easy. The Atmega32U-MU does not come with a bootloader preinstalled, so you will need to have an AVR ISP programmer [like this](https://www.amazon.com/HiLetgo-ATMEGA8-Programmer-USBasp-Cable/dp/B00AX4WQ00). First, you will need to download and install the [Arduino IDE](https://docs.arduino.cc/software/ide/).
 
 # Links to Digikey/Mouser Cart Orders
-[Digikey order](https://www.digikey.com/short/2hrqw8v4)
+[Digikey order](https://www.digikey.com/short/91r0hqhd)
 # Sensors
 The board utilizes two sensors (BME680 & HMC5883L) that can monitor altitude, barometric pressure, humidity, temperature, and a compass. It also comes with a real-time clock (BQ32000DR). 
 
